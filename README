@@ -1,0 +1,10 @@
+Put the repo at the same path of edk2
+for example:
+
+Github
+|--edk2
+|--edk2-platforms
+\--MYTOOL
+    \--Library.py
+
+The Library.py will generate a excel file and auto add Library include dsc files for each package
